@@ -1,5 +1,3 @@
-#Homework 2: ggplot2
-
 #calling the libraries to be used in case
 library(dplyr)
 library(ggplot2)
